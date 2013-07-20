@@ -1,4 +1,4 @@
 multiCustom
 ===========
 
-a simple producer-customer model by python
+a simple model of 'producer(1) - customer(N)'
